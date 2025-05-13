@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e38557d517b3ff349af3661ee3e4f3ff
+  m_SerializeEntries:
+  - m_GUID: 2d981ae38ae63af4585c333982f69ced
+    m_Address: Assets/External/PlaySide/Localisation/GameSpecific_Localisation/UnityLocalisation/LocTables/Loc_Strings
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: fbf34d274e0b49c468138c9f7b3d1264, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 59288f1e09b95154c9b89c5bd175d3b9, type: 2}
+    - {fileID: 11400000, guid: 51b3f4ae48b30b34e8d105e0046f275f, type: 2}
