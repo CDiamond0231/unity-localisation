@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089f6bc4b048e443bfa94f67a5773f9, type: 3}
+  m_Name: LocalisationImportConfig
+  m_EditorClassIdentifier: 
+  documentFetcherInfo:
+  - googleDocId: 
+    csvFilePath: Assets/External/Localisation/GameSpecific_Localisation/LocTables/Loc_Strings.csv
+  fallbackFontSheets:
+  - {fileID: 0}
+  uniqueCharsLanguageSelect: 01010000010101000001
+  charactersToIncludeForEveryAtlas: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789$\u20AC\xA5\xA3\u5143\u20A9\u20B9\u20BD\u20BA\u0E3F\u20AA\u20B1"
+  uniqueCharactersForSelectedLanguages: 

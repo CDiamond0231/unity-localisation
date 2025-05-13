@@ -1,0 +1,19 @@
+{
+    "name": "GameSpecificLocalisation.Editor",
+    "rootNamespace": "GameSpecificLocalisation.Editor",
+    "references": [
+        "Localisation",
+        "Localisation.SharedLocalisationEditor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
