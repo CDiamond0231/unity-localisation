@@ -1,0 +1,25 @@
+{
+    "name": "Localisation.Editor",
+    "rootNamespace": "Localisation.Editor",
+    "references": [
+        "Localisation",
+        "GameSpecificLocalisation.Editor",
+        "Localisation.SharedLocalisationEditor",
+        "Unity.Addressables",
+        "Unity.Addressables.Editor",
+        "Unity.TextMeshPro",
+        "Unity.Localization",
+        "Unity.Localization.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

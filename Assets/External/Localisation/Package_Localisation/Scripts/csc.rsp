@@ -1,0 +1,2 @@
+﻿-nowarn:0649 -nullable:disable
+-nowarn:0618 -nullable:disable
