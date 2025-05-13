@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Loc_Strings_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 2d981ae38ae63af4585c333982f69ced, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 4062551520345849961
+  m_TableData:
+  - m_Id: 5464080384
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5543772160
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5547966464
+    m_Localized: Texte ici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5547966465
+    m_Localized: "2\xE8me texte ici"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5552160768
+    m_Localized: "3\xE8me texte ici"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5552160769
+    m_Localized: et ainsi de suite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5552160770
+    m_Localized: et ainsi de suite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5552160771
+    m_Localized: Bonjour {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5560549376
+    m_Localized: "Pr\xE9nom\_: {0}\\nDeuxi\xE8me pr\xE9nom\_: [1]\\nNom\_: [2]"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 4062551520345849961
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0340ef4a0100000000406f4b01000000
